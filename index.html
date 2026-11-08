@@ -1,1 +1,49 @@
-hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+<!DOCTYPE html>
+<html>
+   <head>
+<style>
+  body{
+    background:  #333;
+  } 
+  #nav{
+    width:  250px;
+    height:  100hv;
+    position: fixed; 
+    right: -250px;
+    top: 0,
+    background-color: red;
+    transition: 0.5s;
+  }
+  #nav ul li{
+    list-style: none;
+    margin: 50px 20px;
+    color: white; }
+  #menubtn{
+     width:  50px;
+      position: fixed;
+     right: 65px;
+    top: 35px,
+</style>   
+ </head> 
+ <body>
+   <div id="nav">
+     <ul>
+       <li> about artist </li>
+       <li> YT </li>
+      <li> shows </li>
+     </ul>
+     <img scr="Bernth.png" alt="" class="menubtn">
+   </div>
+   <script>
+     var menubtn = document.getElementById("menubtn")
+     var nav = document.getElementById("nav")
+     nav.style.right = "-250px"
+     menubtn.onclick= funtion(){
+     if(nav.style.right == "-250px")
+        nav.style.right = "0"
+     }
+     else{ nav.style.right = "-250px"
+         }
+   </script>
+  </body>
+</html>
