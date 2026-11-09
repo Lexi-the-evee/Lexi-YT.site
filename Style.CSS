@@ -13,3 +13,8 @@ background-color: rgb(27, 30, 33);
 color: white;
 padding: 15px 30px;
 }
+.nav-links {
+list-style: none;
+display: flex;
+gap: 25px;
+}
