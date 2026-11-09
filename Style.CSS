@@ -19,8 +19,14 @@ gap: 25px;
 margin: 0;
 padding: 0;
 }
-nav-links a { color: white; text-decoration: none;}
-nav-links a:hover {color: orange;}
+nav-links a { 
+color: white; 
+text-decoration: none;
+}
+nav-links a:hover {
+color: orange;
+}
+
 .logo {
 font-weight: 800;
 font-size: 20px;
