@@ -9,3 +9,15 @@ font-family: "saira", sans-serif;
 display: flex; 
 justify-content: space between;
 align-item: center;
+background color: rgb(27, 30, 33);
+color: white;
+padding: 15px 30px;
+}
+
+.nav-links {
+list-style: none;
+display: flex;
+gap: 25px
+margin: 0;
+padding: 0;
+}
