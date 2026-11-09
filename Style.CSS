@@ -24,3 +24,11 @@ nav-links a {
 color: white;
 text-decoration: none;
 }
+nav-links a:hover {
+color: orange;
+}
+.logo {
+font-weight: 800;
+font-size: 20px;
+color: orange;
+}
