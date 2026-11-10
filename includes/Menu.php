@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <link rel="stylesheet" href="Style.CSS">
-   <body>
+<body>
     <nav class ="navbar">
 <div class = "logo">LOGOHERE</div>
  <ul class = "nav-links">
@@ -16,4 +13,4 @@
  </ul>      
     </nav>
 </body>
-</html>
+
