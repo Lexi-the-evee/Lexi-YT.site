@@ -1,7 +1,22 @@
 <!DOCTYPE html>
 <html>
 <body>
- 
+    <link rel="stylesheet" href="Style.CSS">
+ </head>
+   <body>
+    <nav class ="navbar">
+<div class = "logo">LOGOHERE</div>
+ <ul class = "nav-links">
+<li><a href = "index.html">About artist</a></li>
+<li><a href = "YTvideos.html">YT videos</a></li>
+<li><a href = "shows.html">Shows</a></li>
+<li><a href = "characters.html">Characters</a></li>
+<li><a href = "Portfolio.html">Portfolio</a></li>
+<li><a href = "merch.html">Store</a></li>
+<li><a href = "commissions.html">Commissions</a></li>
+<li><a href = "Contact.html">Contact</a></li>
+ </ul>      
+    </nav>
 <?php
 echo 'My first PHP script!';
 ?>
