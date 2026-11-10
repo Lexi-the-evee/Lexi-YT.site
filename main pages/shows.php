@@ -1,4 +1,9 @@
+  <link rel="stylesheet" href"Style.CSS">
 <?php include("inclueds/menu.php");?>
+<body>
+      <h1> i don't have any shows yet, 
+        ive just got several brain dumps on Google docs
+           (image of an eevee or smth idk)
+ </h1>
+   </body>
 
-i don't have any shows yet, ive just got several brain dumps on Google docs
-(image of an eevee or smth idk)
