@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
     <link rel="stylesheet" href="Style.CSS">
- </head>
    <body>
     <nav class ="navbar">
 <div class = "logo">LOGOHERE</div>
