@@ -1,4 +1,8 @@
+  <link rel="stylesheet" href"Style.CSS">
 <?php include("inclueds/menu.php");?>
+<body>
+      <h1> (cutely aranges
+        videos, GIFS, and images
+        in such a way that makes U hire me cus my art is amazing)  </h1>
+   </body>
 
-(cutely aranges videos, GIFS, and images in such a way that 
-makes hire me cus my art is amazing) 
