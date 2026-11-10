@@ -1,3 +1,5 @@
+<?php include("inclueds/menu.php");?>
+
 (code in a search bar)
 
 ( each character thumnail has  name, image, and gender icon.
