@@ -15,9 +15,5 @@
 <li><a href = "Contact.html">Contact</a></li>
  </ul>      
     </nav>
-<?php
-echo 'My first PHP script!';
-?>
-
 </body>
 </html>
