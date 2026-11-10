@@ -6,9 +6,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
   <title>Document</title>
-</html> 
+<?php include("inclueds/menu.php");?>
 <body>
-      <h1> hehe pixels </h1>
+      <h1> i amNASA bow befor me </h1>
    </body>
 
  
