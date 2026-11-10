@@ -8,24 +8,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
   <title>Document</title>
-   <link rel="stylesheet" href="Style.CSS">
- </head>
-   <body>
-    <nav class ="navbar">
-<div class = "logo">LOGOHERE</div>
- <ul class = "nav-links">
-<li><a href = "index.html">About artist</a></li>
-<li><a href = "YTvideos.html">YT videos</a></li>
-<li><a href = "shows.html">Shows</a></li>
-<li><a href = "characters.html">Characters</a></li>
-<li><a href = "Portfolio.html">Portfolio</a></li>
-<li><a href = "merch.html">Store</a></li>
-<li><a href = "commissions.html">Commissions</a></li>
-<li><a href = "Contact.html">Contact</a></li>
- </ul>      
-    </nav>
-    
-    <h1> hehe pixels </h1>
+
+      <h1> hehe pixels </h1>
    </body>
 </html>
  
