@@ -1,0 +1,33 @@
+
+.character-sheet {
+margin: 50px;
+padding: 25px 15px 10px 60px;
+position: relative;
+}
+
+
+
+.charcolom1 {
+position: absolute;
+left: 50px;
+}
+
+
+.charcolom2 {
+position: absolute;
+left: 200px;
+}
+
+.charcolom3 {
+position: absolute;
+left: 350px;
+}
+
+
+
+.charcolom4 {
+position: absolute;
+left: 500px;
+}
+
+
