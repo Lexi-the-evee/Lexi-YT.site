@@ -5,10 +5,35 @@ background-position: center;
 background-size: cover;
 }
 
+.intro {
+font-size: 0.9cm;
+}
 
-
-h2 {
+.i-did-css {
 font-family:"VT323", sans-serif;
+}
+
+#wrapper {
+margin: 50px;
+padding: 25px 15px 10px 60px;
+font-size: 25px;
+font-weight: bold;
+Background-color: black;
+opacity:0.6;
+width: 1700px;
+height: 1000px;
+position: relative;
+}
+
+.card {
+position: absolute;
+left: 1300px;
+bottom: 500px;
+}
+
+.socials bar {
+position: absolute;
+top: 300px;
 }
 
 .Other-site-links{
@@ -21,17 +46,35 @@ color: black;
 font-family:"Redaction 50", sans-serif;
 }
 
-p {
-font-family:"VT323", sans-serif;
-}
-
-#wrapper {
+.colabs {
 margin: 50px;
 padding: 25px 15px 10px 60px;
-font-size: 25px;
-font-weight: bold;
-Background-color: black;
-opacity:0.6;
-width: 1700px;
-image: url(placeholder-lexi.png);
+position: relative;
+}
+
+
+
+.pcolom1 {
+position: absolute;
+
+}
+
+
+.pcolom2 {
+position: absolute;
+right: 200px;
+}
+
+
+
+.pcolom3 {
+position: absolute;
+top: 500px;
+}
+
+
+.pcolom4 {
+position: absolute;
+right: 200px;
+top: 500px;
 }
