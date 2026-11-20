@@ -1,3 +1,69 @@
+search-bar {
+position: relative;
+}
+
+.search {
+
+--padding: 14px;
+
+position: absolute;
+left: 700px;
+ width: max-content;
+display: flex;
+align-items: center;
+padding: var(--padding);
+border-radius: 28px;
+background: #f6f6f6;
+width: 300px;
+transition: background 0.25s;
+}
+
+.search:focus-within {
+background: #000000;
+}
+
+.search-imput {
+font-size: 16px;
+font-family: "Redaction 50", sans-serif;
+color: #333333;
+margin-left: var(--padding);
+outline: none;
+border: none;
+background: transparent;
+flex: 1;
+}
+
+
+.search-imput::placeholder,
+.search-icon {
+color: rgba(0, 0, 0, 0.5);
+}
+
+
+.oc-cards {
+display: grid;
+grid-template-columns: repeat(auto-fill minmax (150px, 1fr)
+gap: .25rem;
+margin-top: 1rem;
+}
+
+
+.card {
+border: 1px solid  white;
+background-color: black;
+padding: .5rem
+
+}
+
+
+
+
+
+
+
+
+
+
 
 .character-sheet {
 margin: 50px;
@@ -18,16 +84,6 @@ position: absolute;
 left: 200px;
 }
 
-.charcolom3 {
-position: absolute;
-left: 350px;
-}
 
-
-
-.charcolom4 {
-position: absolute;
-left: 500px;
-}
 
 
